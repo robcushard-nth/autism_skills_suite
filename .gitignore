@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (if anyone adds tooling later)
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+.venv/
+
+# Node (if anyone adds tooling later)
+node_modules/
+
+# Build artifacts (NOT packaged/, which we want to ship)
+dist/
+build/
+*.egg-info/
+
+# Local dev
+.env
+.env.local
+local/
+
+# Skill working directories (anyone testing)
+.claude/
+test-output/
