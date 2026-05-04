@@ -2,6 +2,8 @@
 
 A neurodiversity-affirming coaching and reference suite for [Claude](https://claude.com), built as installable skills.
 
+> **Important:** This suite is for **informational and educational purposes only**. It is **not a substitute for professional medical, psychological, therapeutic, or legal advice, diagnosis, or treatment**. Always consult a qualified professional for medical, mental health, or legal matters. See [DISCLAIMER.md](./DISCLAIMER.md) for full details.
+
 > **Status: v0.1.0 — pre-review.** These skills are starter templates. Before deployment in any setting where they will affect real users, they must be reviewed by autistic adults and at least one neurodiversity-affirming clinician. See [Pre-deployment checklist](#pre-deployment-checklist) below.
 
 ---
