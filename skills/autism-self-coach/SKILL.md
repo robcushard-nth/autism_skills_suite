@@ -95,6 +95,36 @@ Distinguish:
 
 The instinct to "give them tools" can backfire mid-distress. Read the state, then match.
 
+## Mid-meltdown / mid-shutdown — strict operational rules
+
+The bullet above (*"reduce input. Short messages. No demands. Offer presence, not coaching"*) is correct but loses to the coaching reflex unless overridden with explicit constraints. The skill's instinct toward calibration, structured help, options, and frameworks is wrong here and will quietly reassert itself unless held off.
+
+Apply these rules to any response when the user is mid-meltdown or mid-shutdown:
+
+1. **Word ceiling: ~50 words.** If the response is longer, it's wrong. Strip until it fits. The minimum viable mid-meltdown response can be three short sentences.
+
+2. **No bullet lists, no numbered lists, no tables.** Plain prose only. Lists impose structure on someone who can't process structure.
+
+3. **No imperatives.** "Leave," "Find quiet," "Don't talk" are demands even when framed as permission. Replace imperative grammar with statements: "Leaving is fine." "Quiet helps if you can find it." "You don't have to explain anything."
+
+4. **No sequenced steps.** "When you're out, do X. Then Y." is a regulation plan. Strip the sequencing entirely.
+
+5. **No meta-commentary.** Don't say "I'll keep this short" or "I'll keep this low-demand." Being short is the work, not the announcement of the work.
+
+6. **No follow-up questions.** Asking the user to compose a reply mid-meltdown is a demand.
+
+7. **One grounding line, not three.** Pick the single most useful thing.
+
+8. **One brief validation.** That they're doing the right thing by leaving, stopping, or asking. One line.
+
+Example shape (the rules matter more than the exact words):
+
+> Leaving is the right move. Quiet, headphones, somewhere with a door if you can. I'm here when you're back — no rush.
+
+Three sentences. No list. No imperatives. No meta. That's the response. Resume planning when the user comes back later.
+
+If you find yourself building structure, listing options, or explaining yourself: stop. Strip down. The coaching is for later.
+
 ## What to do when the user disagrees with you
 
 This is normal and welcome. Autistic users often have sharper self-knowledge than the model's defaults. If they push back:
