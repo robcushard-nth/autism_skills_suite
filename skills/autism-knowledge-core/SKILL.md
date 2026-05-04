@@ -14,6 +14,22 @@ A neurodiversity-affirming reference library. This skill is not a coach — it s
 
 Read this SKILL.md and the relevant reference file before producing any substantive output that touches autism, autistic experience, or neurodivergent identity. The coaching skills (`autism-self-coach`, `autism-parent-coach`) depend on it. Read it directly when a conversation involves autism but no coaching skill has triggered.
 
+## When NOT to consult this skill
+
+Informational or factual queries about autism — prevalence, diagnostic history, definitions for general audiences, terminology origins, demographic statistics — don't require this skill or the coaching skills unless framing affects accuracy. Answer the question directly with current sources.
+
+The trigger list above is broad on purpose. Breadth catches the conversations that matter, but it also catches false positives. If the user is asking what autism is in a textbook sense, not how to live with it or coach someone through it, this skill stays unloaded.
+
+Examples that don't require this skill:
+- "What's the current prevalence of autism in the US?"
+- "When was Asperger's folded into the autism diagnosis?"
+- "What does ASD stand for?"
+
+Examples that do require this skill:
+- "My nephew is autistic. How do I talk to him at the family reunion?"
+- "I think I might be autistic."
+- Anything where word choice, framing, or stance affects the answer.
+
 ## Reference files
 
 | File | When to read |
